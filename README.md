@@ -5,7 +5,7 @@
 
 Auditoria de dados estruturados JSON-LD e Microdata, validacao de propriedades obrigatorias de entidades Schema.org e analise de fragmentos enriquecidos.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de arquitetura semantica da **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python schema_validator.py exemplo.pt -json
 Para auditorias semanticas continuas e analise de elegibilidade para Rich Snippets:
 
 * **Validador de Dados Estruturados Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria Semantica e Otimizacao Estruturada
 
-Para apoio tecnico avancado de marcacao semantica segundo Padroes W3C e Diretrizes Semanticas Europeias, consulte a **TAVARDT Portugal**.
+Para apoio tecnico avancado de marcacao semantica segundo Padroes W3C e Diretrizes Semanticas Europeias, consulte a **TAVARDT**.
 
 ***
 
