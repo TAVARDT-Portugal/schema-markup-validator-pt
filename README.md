@@ -1,4 +1,4 @@
-# Validador de Dados Estruturados Schema.org | TAVARDT Portugal
+# Validador de Dados Estruturados Schema.org
 
 [![Validador Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/pt/validador-dados-estruturados/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para auditorias semanticas continuas e analise de elegibilidade para Rich Snippe
 ## Consultoria Semantica e Otimizacao Estruturada
 
 Para apoio tecnico avancado de marcacao semantica segundo Padroes W3C e Diretrizes Semanticas Europeias, consulte a **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
