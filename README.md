@@ -6,8 +6,6 @@
 
 Auditoria de dados estruturados e marcacao Schema.org no espaco digital de Portugal, validando entidades semanticas e compatibilidade com motores de busca modernos.
 
-Desenvolvido e mantido pela divisao de engenharia de busca e normas semanticas da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Validacao Semantica
@@ -37,15 +35,6 @@ python schema_validator.py exemplo.pt -json
 
 ***
 
-## Plataforma Online de Validacao
-
-Para auditorias semanticas continuas e análise de elegibilidade para Rich Snippets:
-
-* **Validador de Dados Estruturados Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria Semantica e Otimizacao Estruturada
 
 Para apoio tecnico avancado de marcacao semantica segundo Padroes W3C e Diretrizes Semanticas Europeias, consulte a **TAVARDT**.
@@ -63,7 +52,7 @@ Para apoio tecnico avancado de marcacao semantica segundo Padroes W3C e Diretriz
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
